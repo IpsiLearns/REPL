@@ -1,99 +1,110 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Websites
 
-- [Websites](#websites)
-- [Artificial intelligence](#artificial-intelligence)
-  - [Machine learning](#machine-learning)
-- [Career](#career)
-  - [Advice](#advice)
-  - [Resume building](#resume-building)
-- [Computer science](#computer-science)
-  - [Algorithms](#algorithms)
-    - [Visualizations](#visualizations)
-  - [Articles](#articles)
-  - [Computational complexity](#computational-complexity)
-  - [Courses and videos](#courses-and-videos)
-  - [Free (e)books](#free-ebooks)
-- [Data science](#data-science)
-  - [Jupyter](#jupyter)
-  - [Pandas](#pandas)
-  - [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
-- [Free e-books and video courses](#free-e-books-and-video-courses)
-- [Hacking](#hacking)
-- [LaTeX](#latex)
-- [Linux & Unix](#linux--unix)
-- [Mathematics](#mathematics)
-  - [Beginner topics](#beginner-topics)
-  - [Calculus](#calculus)
-    - [Derivatives](#derivatives)
-  - [Discrete mathematics](#discrete-mathematics)
-    - [Algorithms](#algorithms-1)
-      - [Hopcroft-Karp](#hopcroft-karp)
-    - [Binomial theorem](#binomial-theorem)
-    - [Graph theory](#graph-theory)
-    - [Rules of inference - logic proofs](#rules-of-inference---logic-proofs)
-  - [Encryption](#encryption)
-  - [Limits](#limits)
-  - [Linear Algebra](#linear-algebra)
-  - [Machine learning](#machine-learning-1)
-  - [Modular arithmetic](#modular-arithmetic)
-  - [Number bases](#number-bases)
-  - [Online tools](#online-tools)
-  - [Statistics](#statistics)
-  - [Trigonometry](#trigonometry)
-- [Music (ideal for programming)](#music-ideal-for-programming)
-- [Online services](#online-services)
-  - [Clean your inbox](#clean-your-inbox)
-  - [Diff checker (compare different files)](#diff-checker-compare-different-files)
-  - [Disposable/temporary emails](#disposabletemporary-emails)
-  - [File sharing & storage](#file-sharing--storage)
-  - [Gantt charts](#gantt-charts)
-  - [Image hosting](#image-hosting)
-  - [Manage your privacy](#manage-your-privacy)
-  - [Receive SMS](#receive-sms)
-- [Open source](#open-source)
-- [Programming](#programming)
-  - [App monitoring](#app-monitoring)
-  - [Basics](#basics)
-  - [Books](#books)
-  - [Coding challenges](#coding-challenges)
-  - [Documentation](#documentation)
-  - [Interview preparation](#interview-preparation)
-    - [Books](#books-1)
-    - [Facebook](#facebook)
-    - [Google](#google)
-    - [Microsoft](#microsoft)
-  - [Games](#games)
-    - [CSS](#css)
-    - [JavaScript](#javascript)
-    - [Projects and ideas](#projects-and-ideas)
-    - [Python](#python)
-    - [Security](#security)
-    - [Service workers](#service-workers)
-  - [Git / GitHub](#git--github)
-  - [iOS](#ios)
-    - [Swift](#swift)
-  - [JavaScript](#javascript-1)
-  - [Julia](#julia)
-  - [Python](#python-1)
-  - [Questions and answers](#questions-and-answers)
-  - [Regular expressions (regex)](#regular-expressions-regex)
-  - [SQL](#sql)
-  - [TypeScript](#typescript)
-- [Startups](#startups)
-- [Technology](#technology)
-- [Typing faster](#typing-faster)
-- [Variety](#variety)
-- [Web](#web)
-  - [Buying a domain name](#buying-a-domain-name)
-  - [Cloud Computing](#cloud-computing)
-  - [Information on websites](#information-on-websites)
-  - [Website annotation](#website-annotation)
-  - [Website testing](#website-testing)
-- [Web development](#web-development)
-  - [Learning](#learning)
-  - [Tools](#tools)
+<!-- vim-markdown-toc GFM -->
+
+* [Awesome lists about all kinds of interesting topics](#awesome-lists-about-all-kinds-of-interesting-topics)
+* [Artificial intelligence](#artificial-intelligence)
+    * [Machine learning](#machine-learning)
+* [Career](#career)
+    * [Advice](#advice)
+    * [Resume building](#resume-building)
+* [Computer science](#computer-science)
+    * [Algorithms](#algorithms)
+        * [Visualizations](#visualizations)
+    * [Articles](#articles)
+    * [Computational complexity](#computational-complexity)
+    * [Courses and videos](#courses-and-videos)
+    * [Free (e)books](#free-ebooks)
+* [Data science](#data-science)
+    * [Jupyter](#jupyter)
+    * [Pandas](#pandas)
+    * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
+* [Free e-books and video courses](#free-e-books-and-video-courses)
+* [Hacking](#hacking)
+* [LaTeX](#latex)
+* [Linux & Unix](#linux--unix)
+* [Mathematics](#mathematics)
+    * [Beginner topics](#beginner-topics)
+    * [Calculus](#calculus)
+        * [Derivatives](#derivatives)
+    * [Discrete mathematics](#discrete-mathematics)
+        * [Algorithms](#algorithms-1)
+            * [Hopcroft-Karp](#hopcroft-karp)
+        * [Binomial theorem](#binomial-theorem)
+        * [Graph theory](#graph-theory)
+        * [Rules of inference - logic proofs](#rules-of-inference---logic-proofs)
+    * [Encryption](#encryption)
+    * [Limits](#limits)
+    * [Linear Algebra](#linear-algebra)
+    * [Machine learning](#machine-learning-1)
+    * [Modular arithmetic](#modular-arithmetic)
+    * [Number bases](#number-bases)
+    * [Online tools](#online-tools)
+    * [Statistics](#statistics)
+    * [Trigonometry](#trigonometry)
+* [Music (ideal for programming)](#music-ideal-for-programming)
+* [Online services](#online-services)
+    * [Clean your inbox](#clean-your-inbox)
+    * [Diff checker (compare different files)](#diff-checker-compare-different-files)
+    * [Disposable/temporary emails](#disposabletemporary-emails)
+    * [File sharing & storage](#file-sharing--storage)
+    * [Gantt charts](#gantt-charts)
+    * [Image hosting](#image-hosting)
+    * [Manage your privacy](#manage-your-privacy)
+    * [Receive SMS](#receive-sms)
+* [Open source](#open-source)
+* [Programming](#programming)
+    * [App monitoring](#app-monitoring)
+    * [Basics](#basics)
+    * [Books](#books)
+    * [Coding challenges](#coding-challenges)
+    * [Documentation](#documentation)
+    * [Interview preparation](#interview-preparation)
+        * [Books](#books-1)
+        * [Facebook](#facebook)
+        * [Google](#google)
+        * [Microsoft](#microsoft)
+    * [Games](#games)
+        * [CSS](#css)
+        * [JavaScript](#javascript)
+        * [Projects and ideas](#projects-and-ideas)
+        * [Python](#python)
+        * [Security](#security)
+        * [Service workers](#service-workers)
+    * [Git / GitHub](#git--github)
+    * [iOS](#ios)
+        * [Swift](#swift)
+    * [Java](#java)
+    * [JavaScript](#javascript-1)
+    * [Julia](#julia)
+    * [Kotlin](#kotlin)
+    * [Markdown](#markdown)
+    * [Python](#python-1)
+    * [Questions and answers](#questions-and-answers)
+    * [Regular expressions (regex)](#regular-expressions-regex)
+    * [SQL](#sql)
+    * [TypeScript](#typescript)
+* [Startups](#startups)
+* [Technology](#technology)
+* [Typing faster](#typing-faster)
+* [Variety](#variety)
+* [Web](#web)
+    * [Buying a domain name](#buying-a-domain-name)
+    * [Cloud Computing](#cloud-computing)
+    * [Information on websites](#information-on-websites)
+    * [Website annotation](#website-annotation)
+    * [Website testing](#website-testing)
+* [Web development](#web-development)
+    * [Learning](#learning)
+    * [Tools](#tools)
+
+<!-- vim-markdown-toc -->
+
+# [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
+
+- Ideal starting point. :sunglasses:
 
 # Artificial intelligence
 
@@ -337,7 +348,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Imgur](https://imgur.com) - _"Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Imgur))
 - [Postimage](https://postimages.org) - _"Provides free image upload and hosting integration for forums. Free picture hosting and photo sharing for websites and blogs."_
 - [TinyPic](http://tinypic.com) - No sign up required. _"TinyPic is a photo and video sharing service, owned and operated by Photobucket.com, that allows users to upload, link and share, images and videos on the Internet. The idea is similar to URL shortening in which each uploaded image is given a relatively short internet address."_ ([from Wikipedia](https://en.wikipedia.org/wiki/TinyPic))
-- [Use](https://www.use.com) - _"Use.com offers unlimited free image hosting - No sign up required! It's easy to upload, link, and share your photos on eBay®, craigslist®, MySpace®, blogs..."_
 
 ## Manage your privacy
 
@@ -453,6 +463,9 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8) - Stanford
 
+## Java
+- [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building around 5 different projects. Eventually you’ll be able to create a project that will showcase your skills at the junior Java Developer level."_.
+
 ## JavaScript
 
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - _"This is a series of books diving deep into the core mechanisms of the JavaScript language."_
@@ -462,8 +475,18 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl) - Learning Julia, dynamic programming, many mathematical concepts.
 
+## Kotlin
+
+- [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the syntax of Kotlin and the features that make it a laconic language."_.
+
+## Markdown
+
+- [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) - _"This document is itself written using Markdown; you can see the source for it by adding ‘.text’ to the URL"_.
+- [Mastering Markdown](https://masteringmarkdown.com/) - _"A Mini Series that will change how you write"_.
+
 ## Python
 
+- [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
 ## Questions and answers
@@ -499,7 +522,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 # Variety
 
-- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme) :sunglasses:
 - [Free for developers](https://free-for.dev) - _"This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers."_
 
 # Web

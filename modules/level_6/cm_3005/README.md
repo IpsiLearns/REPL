@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 ## Data Science (CM3005)
 
@@ -11,7 +11,7 @@ results. You will be able to use data analysis in the decision-making
 process. You will also learn about a range of application domains for
 data science.
 
-Topics covered:
+### Topics covered
 
 - Introduction and development environment
 - Working with different types of data
@@ -24,4 +24,6 @@ Topics covered:
 - Scientific data visualisation
 - Case studies: different contexts for data analysis
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

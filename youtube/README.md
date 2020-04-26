@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # YouTube
 
@@ -47,7 +47,7 @@
   - [Android](#android)
   - [C](#c)
   - [C&#35;](#c-1)
-  - [C++](#c-2)
+  - [C&#43;&#43;](#c-2)
   - [JavaScript](#javascript)
   - [PHP](#php)
   - [Python](#python)
@@ -103,6 +103,7 @@
 - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) (playlist) - MIT OpenCourseWare - _"[...] summarizing the prerequisite complexity theory and featuring two examples of hardness proofs in games."_
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
 - [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
+- [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
 - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
 
 ### `mergeSort` algorithm
@@ -315,7 +316,7 @@
 
 - [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) [24h00m] - Literally a course you can take in 24 hours... If you don't sleep. - freeCodeCamp.org
 
-## C++
+## C&#43;&#43;
 
 - Beginner
   - [C++ Object Oriented Programming Video Tutorial](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq)

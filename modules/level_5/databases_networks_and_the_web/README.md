@@ -1,12 +1,17 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Databases, Networks and the Web](#databases-networks-and-the-web)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [External resources](#external-resources)
+* [Databases, Networks and the Web](#databases-networks-and-the-web)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Notes](#notes)
+    * [Websites](#websites)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Databases, Networks and the Web
@@ -38,6 +43,18 @@ communication.
 
 One two hour unseen written examination and coursework (Type I)
 
-# External resources
+# Resources
+
+## Notes
+
+- [student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf](../../../notes/level_5/databases-networks-and-the-web/student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf)
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/databases-networks-and-the-web/student_notes/felipe_balbi/notes.pdf)
+
+## Websites
 
 - [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
+
+
+## Syllabus
+
+- [Syllabus PDF (April 2020)](./DNW-Syllabus.pdf)

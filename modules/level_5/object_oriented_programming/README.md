@@ -1,11 +1,17 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
-- [Object-Oriented Programming](#object-oriented-programming)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Resources](#resources)
-  - [On REPL](#on-repl)
+# Table of contents
+<!-- vim-markdown-toc GFM -->
 
+* [Object-Oriented Programming](#object-oriented-programming)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [On REPL](#on-repl)
+    * [Notes](#notes)
+    * [Syllabus](#syllabus)
+
+<!-- vim-markdown-toc -->
 ---
 
 # Object-Oriented Programming
@@ -40,5 +46,15 @@ Coursework only (Type II)
 
 ## On REPL
 
-- [YouTube](https://github.com/world-class/REPL/tree/master/youtube).
-  - [C++](https://github.com/world-class/REPL/tree/master/youtube#c-2).
+- [YouTube](../../../youtube/README.md).
+  - [C++](../../../youtube/README.md#c-2).
+
+## Notes
+
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
+
+## Syllabus
+
+- [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
+
+

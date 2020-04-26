@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 ## Games Development (CM3030)
 
@@ -21,7 +21,7 @@ player with limited computational resources. This module gives students
 practical experience of programming game AI systems and an understanding
 of the relevant theory.
 
-Topics covered:
+### Topics covered
 
 - Introduction to game development, the games industry and game engines
 - Creating sprite based 2D
@@ -34,4 +34,6 @@ Topics covered:
 - Behaviour Trees
 - Recap and review
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

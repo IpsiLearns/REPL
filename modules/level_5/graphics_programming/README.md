@@ -1,11 +1,16 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Graphics Programming](#graphics-programming)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
+* [Graphics Programming](#graphics-programming)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Notes](#notes)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Graphics Programming
@@ -33,3 +38,13 @@ basics of working with simulated physics and 3D graphics.
 # Assessment
 
 Coursework only (Type II)
+
+# Resources
+
+## Notes
+
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/graphics_programming/student_notes/felipe_balbi/notes.pdf)
+
+## Syllabus
+
+- [Syllabus PDF (April 2020)](./GP-Syllabus-.pdf)

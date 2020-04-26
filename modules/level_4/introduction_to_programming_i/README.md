@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Introduction to Programming I](#introduction-to-programming-i)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -70,7 +71,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/introduction_to_programming_i).
+- [students_notes/sukhjit_mann/week-1_Intro_to_p5.pdf](../../../notes/level_4/introduction_to_programming_i/students_notes/sukhjit_mann/week-1_Intro_to_p5.pdf)
 
 ## On REPL (see relevant sections)
 
@@ -93,7 +94,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Syllabus
 
-- [Syllabus PDF (April 2019)](./resources/ITP1-Syllabus.pdf)
+- [Syllabus PDF (April 2020)](./resources/ITP1-Syllabus.pdf)
 
 ## Text editor
 

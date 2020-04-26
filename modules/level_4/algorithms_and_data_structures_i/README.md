@@ -1,24 +1,26 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Table of contents](#table-of-contents)
-- [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-    - [Algorithms](#algorithms)
-      - [`mergeSort` algorithm](#mergesort-algorithm)
-      - [`quickSort` algorithm](#quicksort-algorithm)
-    - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
-  - [Essential reading](#essential-reading)
-  - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
-  - [On REPL](#on-repl)
-  - [Syllabus](#syllabus)
+* [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Complementary learning](#complementary-learning)
+        * [Visualizations](#visualizations)
+        * [Algorithms](#algorithms)
+            * [`mergeSort` algorithm](#mergesort-algorithm)
+            * [`quickSort` algorithm](#quicksort-algorithm)
+        * [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
+    * [Essential reading](#essential-reading)
+    * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Notes](#notes)
+    * [On REPL](#on-repl)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Algorithms and Data Structures I
@@ -59,7 +61,14 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Complementary learning
 
-- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _"On edX platform, by UCSanDiegoX."_
+- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
+- [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
+
+### Visualizations
+
+- [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualizations of a lot of data structures and related algorithms.
+
+- [Animated DSA Visualization](https://visualgo.net/en) - Sorting algorithms, searching algorithms and many data structures beautifully visualized.
 
 ### Algorithms
 
@@ -109,12 +118,13 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/algorithms_and_data_structures_i).
+- [students_notes/arjun_muralidharan/CM1035_ADS.pdf](../../../notes/level_4/algorithms_and_data_structures_i/students_notes/arjun_muralidharan/CM1035_ADS.pdf)
+- [students_notes/felipe_balbi/notes.pdf](../../../notes/level_4/algorithms_and_data_structures_i/students_notes/felipe_balbi/notes.pdf)
 
 ## On REPL
 
-- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#algorithms).
-- [Websites](https://github.com/world-class/REPL/tree/master/websites#algorithms).
+- [YouTube](../../../youtube/README.md#algorithms).
+- [Websites](../../../websites/README.md#algorithms).
 
 ## Syllabus
 

@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 ## Advanced Web Development (CM3035)
 
@@ -14,7 +14,7 @@ server-side web applications, by building web-accessible wrappers around
 databases. You will consider issues of scalability, and learn about web
 application configuration and deployment.
 
-Topics covered:
+### Topics covered
 
 - The web stack: clients, web servers and databases
 - Advanced features of HTML, CSS and Templates
@@ -27,4 +27,6 @@ Topics covered:
 - Working with external APIs
 - Scalability
 
-**Assessment:** Coursework only (Type II)
+### Assessment
+
+Coursework only (Type II)

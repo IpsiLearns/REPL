@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 ## Artificial Intelligence (CM3020)
 
@@ -10,7 +10,7 @@ making and problem solving including under uncertainty. You will have an
 opportunity to apply Artificial Intelligence techniques to particular
 problems such as game playing and decision making.
 
-Topics covered:
+### Topics covered
 
 - Historical overview of Artificial Intelligence.
 - Intelligent agents and environments (Part 1)
@@ -23,4 +23,6 @@ Topics covered:
 - Robotics
 - Advanced Topics in AI
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

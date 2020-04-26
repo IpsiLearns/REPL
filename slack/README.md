@@ -1,20 +1,22 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Slack
 
 # Table of contents
 
-- [Resources](#resources)
-  - [Channels](#channels)
-    - [Fun channels](#fun-channels)
-    - [Help and resources](#help-and-resources)
-    - [Modules level 4](#modules-level-4)
-    - [Modules level 5](#modules-level-5)
-    - [Specialisms](#specialisms)
-  - [How to use Slack](#how-to-use-slack)
-- [For developers & contributors](#for-developers--contributors)
-  - [Slack app integrations](#slack-app-integrations)
-    - [GreetBot](#greetbot)
+- [Slack](#slack)
+- [Table of contents](#table-of-contents)
+  - [Resources](#resources)
+    - [Channels](#channels)
+      - [Fun channels](#fun-channels)
+      - [Help and resources](#help-and-resources)
+      - [Modules level 4](#modules-level-4)
+      - [Modules level 5](#modules-level-5)
+      - [Specialisms](#specialisms)
+    - [How to use Slack](#how-to-use-slack)
+  - [For developers & contributors](#for-developers--contributors)
+    - [Slack Onboarding](#slack-onboarding)
+      - [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
 
 ## Resources
 
@@ -62,6 +64,7 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | `#pair-programming`           | Find partners to work with on programming problems                                                                                                                                                                                                        |
 | `#podcasts`                   | Listen your way to success while being entertained                                                                                                                                                                                                        |
 | `#resources`                  | Post useful learning resources here                                                                                                                                                                                                                       |
+| `#rpl-hcw-google-it`          | For discussing Google IT professional Certificate                                                                                                                                                                                                         |
 | `#reviewexchange`             | For those that need a peer review to review each other                                                                                                                                                                                                    |
 | `#studytips_and_tools`        | Share study tips, methods, apps that might help others                                                                                                                                                                                                    |
 | `#teachyourselfcs`            | Discussions related to the roadmap provided by teachyourselfcs.com, Find Resources on https://teachyourselfcs-uol.btofficiel.now.sh                                                                                                                       |
@@ -78,9 +81,11 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 | `#cm1015-computational-math` | [Computational mathematics](../modules/level_4/computational_mathematics/README.md)               |
 | `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level_4/discrete_mathematics/README.md)                         |
 | `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level_4/fundamentals_of_computer_science/README.md) |
-| `#cm1030-hcw`                | [How computers work](../modules/level_4/how_computers_work/README.md)                             |
+| `#cm1030-hcw` \*             | [How computers work](../modules/level_4/how_computers_work/README.md)                             |
 | `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md) |
 | `#cm1040-web-dev`            | [Web development](../modules/level_4/web_development/README.md)                                   |
+
+\* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it`.
 
 #### Modules level 5
 
@@ -108,9 +113,17 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 - [Available shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
 - [How to format your messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
 - [How to share snippets of code](https://slack.com/slack-tips/share-code-snippets) (JavaScript, HTML, CSS, Python, C++, etc.)
+- [How to use pinned items](https://slack.com/intl/en-mx/help/articles/205239997-Pin-messages) (important info in each channel)
+- [How to search effectively](https://slack.com/intl/en-mx/help/articles/202528808-Search-in-Slack) (filtering by channel, user, date, file types, etc.)
+- [How to find channels](https://slackhq.com/introducing-channel-search-for-slack)
+- [Using threads while communicating to keep chats organized](https://slack.com/intl/en-in/help/articles/115000769927-Use-threads-to-organise-discussions-)
 - [Slack help center](https://get.slack.help/hc/en-us) for anything else
 
 ## For developers & contributors
+
+[awesome-slack](https://github.com/matiassingers/awesome-slack/) — [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome Slack related things
 
 ### Slack Onboarding
 

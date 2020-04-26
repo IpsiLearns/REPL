@@ -1,29 +1,36 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Podcasts
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Artificial intelligence](#artificial-intelligence)
-- [Computer science](#computer-science)
-- [Cybersecurity](#cybersecurity)
-- [Data science](#data-science)
-- [Economics](#economics)
-- [Education](#education)
-- [Music](#music)
-- [Programming](#programming)
-  - [Beginner-friendly](#beginner-friendly)
-  - [Interviews](#interviews)
-  - [Music](#music-1)
-  - [Python](#python)
-  - [Software development](#software-development)
-  - [Testing](#testing)
-  - [Web development](#web-development)
-- [Science](#science)
-- [Technology](#technology)
-- [Variety](#variety)
+* [Awesome Geek Podcasts](#awesome-geek-podcasts)
+* [Artificial intelligence](#artificial-intelligence)
+* [Computer science](#computer-science)
+* [Cybersecurity](#cybersecurity)
+* [Data science](#data-science)
+* [Economics](#economics)
+* [Education](#education)
+* [Music](#music)
+* [Programming](#programming)
+    * [Beginner-friendly](#beginner-friendly)
+    * [Interviews](#interviews)
+    * [Music](#music-1)
+    * [Python](#python)
+    * [Software development](#software-development)
+    * [Testing](#testing)
+    * [Web development](#web-development)
+* [Science](#science)
+* [Technology](#technology)
+* [Variety](#variety)
 
+<!-- vim-markdown-toc -->
 ---
+
+# [Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
+
+> A curated list of podcasts we like to listen to. — [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Artificial intelligence
 
@@ -51,8 +58,10 @@
 
 # Education
 
+- [Naval](https://nav.al/) - _"Naval on wealth and happiness."_
 - [TED Podcasts](https://www.ted.com/podcasts) - _"Learn more about TED's original podcast initiatives. Subscribe to listen on Apple Podcasts, the TED Android app, or wherever you get your podcasts."_
 - [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/) - _"A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."_
+- [The Knowledge Project](https://fs.blog/knowledge-project/) - _"Master the best of what other people have already figured out."_
 
 # Music
 

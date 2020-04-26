@@ -1,10 +1,16 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [List of required reading](#list-of-required-reading)
+- [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
+  - [Notes](#notes)
+  - [Syllabus](#syllabus)
 
 ---
 
@@ -40,3 +46,67 @@ Data Structures I before attempting this module.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# List of required reading
+
+Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058].
+
+| Week | Topic                                  | Section                             | Page number                       |
+|------|----------------------------------------|-------------------------------------|-----------------------------------|
+| 1    | RAM Model                              | 2.2                                 | pp. 23-4                          |
+| 2    | Worst and average case analysis        |                                     | p. 27                              |
+| 2    | Asymptotic notation                    | 3.1                                 | 43-52                             |
+| 4    | Recursive algorithm and analysis       | 2.3, ch. 4 (except 4.6)             | pp. 29-37, pp. 65-113             |
+| 5    | Insertion Sort                         | 2.1, 2.2                            | pp. 16-22, pp. 23-9               |
+| 6    | QuickSort                              | Ch.7, 7.1, 7.2                      | pp. 170-3, pp. 174-8              |
+| 6    | MergeSort                              | 2.3.1, 2.3.2                        | pp. 30-34, pp. 34-37              |
+| 7    | Lower bounds for comparison sorts      | Chapter 8, 8.1                      | pp. 191-3                         |
+| 7    | Counting Sort                          | 8.2                                 | pp 194-6                          |
+| 8    | Radix Sort                             | 8.3                                 | pp. 197-9                         |
+| 8    | Bucket Sort                            | 8.4                                 | pp. 200-                          |
+| 9    | Hashing                                | 11                                  | pp. 253-285                       |
+| 13   | Linked Lists                           | definition of DS, 10.2              | p.9, pp.236-41                    |
+| 14   | Stacks and Queues                      | 10.1                                | pp 232-5                          |
+| 16   | Binary search trees                    | ch. 12, 12.1, 12.2, 12.3            | pp. 286-8, pp. 289-92, pp.294-8   |
+| 17   | Heaps, Heapsort and priority queues    | Chapter 6                           | pp. 151-69                        |
+| 19   | Graph representation, MST and Dijsktra | Ch.22- 22.1, Ch. 23, Ch 24-Ch. 24.3 | pp. 579-92, pp. 624-42, pp.658-66 |
+
+# Resources
+
+## Complementary learning
+
+- Courses
+
+  - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
+  - [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
+  - [Graph Algorithms](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS202x+2T2017/course) - _edX platform, by UC San Diego_
+
+- Websites
+
+  - [Algorithms in the "Real World" (2018)](http://www.cs.cmu.edu/~guyb/realworld.html) - Compression, error correcting codes, cryptography, parallel algorithms, locality and I/O efficient algorithms, indexing and searching, nearest neighbors, dimensionality reduction.
+  - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
+  - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) - _"This is a dictionary of algorithms, algorithmic techniques, data structures, archetypal problems, and related definitions."_
+  - [Introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) ([problem sets](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)) - MIT OpenCourseWare.
+  - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - _"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."_
+  - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+
+  - Visualizations
+    - [HackerEarth](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/) - Visualize sorting algorithms, step by step.
+    - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
+
+- Youtube
+  - [Algorithm Design and Analysis](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5) (playlist) - UC Davis
+  - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) (playlist) - MIT OpenCourseWare - _"[...] summarizing the prerequisite complexity theory and featuring two examples of hardness proofs in games."_
+  - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
+  - [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
+  - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
+  - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
+
+## Notes
+
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/algorithms_and_data_structures_ii/student_notes/felipe_balbi/notes.pdf)
+
+
+## Syllabus
+
+- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)
